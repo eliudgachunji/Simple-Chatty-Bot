@@ -1,2 +1,2 @@
 # Simple-Chatty-Bot
-A simple chatty bot
+In this project I learnt
